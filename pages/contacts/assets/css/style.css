@@ -110,19 +110,24 @@ nav ul li a{
     background-color: rgb(29, 28, 28);
     align-items: center;
     display: flex;
-
-    
+    flex-direction: column;
     h1 {
         display: flex;
+        padding: 15px ;
     }
 }
+.links{
+    display: flex;
+    gap: 10rem;
 
+}
 .email{
     background: transparent;
     display:flex;
     justify-content: center;
     gap: 0.5rem;
-    
+    flex-direction: column;
+    align-items: center;
     a{
         background: transparent;
         img{
@@ -134,12 +139,16 @@ nav ul li a{
         font-size: 20px;
     }
 }
+.emailtext{
+    text-align: center;
+}
 
 .insta{
     background: transparent;
     display:flex;
     gap: 0.5rem;
-    
+    flex-direction: column;
+    align-items: center;
     a{
         background: transparent;
         img{
@@ -152,4 +161,7 @@ nav ul li a{
       text-align: center;
     }
 
+}
+.instatext{
+    text-align: center;
 }
