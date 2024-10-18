@@ -72,9 +72,11 @@ nav ul li a{
 
 .aboutme{
     background-color: rgb(29, 28, 28);
+    
     .imgcontainer{
         display: flex;
         justify-content: end;
+
     }
     .aboutme-img{
         transform: translate(12rem, 0);

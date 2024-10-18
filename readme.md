@@ -118,4 +118,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Nav Bar | 
+| Nav Bar | responsive navigation menu bar. | https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.codingnepalweb.com%2Fresponsive-navigation-menu-bar-html-css%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1-cc8dmIxGlVV-k11SwBBFWx4Q4y6GcDDrkT2fm9fZTKAGXhkTuhpfTkY_aem_flqkxCCHUlRRFyLk0tBT6g&h=AT2DsYOt0spTYEfZyCUmMwI3_pAvk9vfIEt4R1rPyQxJT1SA1CTb_zwPJh-n4bzvkCizWD8abKh0xsqX1ZjwUUZJVzEVXYDvYU4rAWr0Llpbqebz0rgPIIfqiu9O0McyMr8HJQ
+| Navigator | to navigate between pages | https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_ir9du6fq4Q%3Fsi%3Dyf-wcl7oU_mvWUzG%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0y-oRTs_MDSH5cXn4OGKQiKaG21P7yOJk5eNp_RFEtyeb7zHlRInlrLFI_aem_CFopzNFe8uRJUFxvwVfn1w&h=AT2DsYOt0spTYEfZyCUmMwI3_pAvk9vfIEt4R1rPyQxJT1SA1CTb_zwPJh-n4bzvkCizWD8abKh0xsqX1ZjwUUZJVzEVXYDvYU4rAWr0Llpbqebz0rgPIIfqiu9O0McyMr8HJQ

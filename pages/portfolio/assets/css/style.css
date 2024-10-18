@@ -108,6 +108,7 @@ nav ul li a{
     background-color: rgb(29, 28, 28);
     text-align: center;
     color:  hsl(0, 0%, 76%);
+    padding-top: 2rem;
     
     p {
         text-align: center;
