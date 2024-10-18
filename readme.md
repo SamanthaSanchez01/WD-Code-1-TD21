@@ -60,17 +60,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: This project is a simple portfolio about me. The contents inside it include the things that I like to do: drawing, taking pictures and baking.
+- Whats the purpose : The purpose is to showcase my skillsets
+- What are key components : The key components are in portfolio which shows pictures of my work 
+- What technology used and how it is used : The technology I used is html and css
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
