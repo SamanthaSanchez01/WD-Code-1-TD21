@@ -97,7 +97,7 @@ nav ul li a{
     transform: translate(-50%, -50%); 
     background-color: transparent; 
     color: hsl(0, 0%, 76%); 
-    padding: 10px 40px; 
+    padding: 10px 60px; 
     font-size: 26px; 
     text-align: start;
   }
