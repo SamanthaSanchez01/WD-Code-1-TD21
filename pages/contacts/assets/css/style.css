@@ -66,10 +66,6 @@ nav ul li a{
     font-size: 16px;
 }
 
-
-
-
-
 .aboutme{
     background-color: rgb(29, 28, 28);
     .imgcontainer{
@@ -102,7 +98,58 @@ nav ul li a{
     text-align: start;
   }
 
+  a {
+    text-decoration: none;
+    color: hsl(0, 0%, 76%);
+  }
+.contacts{
+    background-color: rgb(29, 28, 28);
+    height: 90dvh;
+    color:  hsl(0, 0%, 76%);
+    font-size: xx-large;
+    background-color: rgb(29, 28, 28);
+    align-items: center;
+    display: flex;
 
+    
+    h1 {
+        display: flex;
+    }
+}
 
+.email{
+    background: transparent;
+    display:flex;
+    justify-content: center;
+    gap: 0.5rem;
+    
+    a{
+        background: transparent;
+        img{
+            background: transparent;
+            width: 20dvh;
+        }
+    }
+    h4{
+        font-size: 20px;
+    }
+}
 
+.insta{
+    background: transparent;
+    display:flex;
+    gap: 0.5rem;
+    
+    a{
+        background: transparent;
+        img{
+            background: transparent;
+            width: 20dvh;
+        }
+    }
+    
+    .socmed h3{
+      text-align: center;
+    }
 
+}

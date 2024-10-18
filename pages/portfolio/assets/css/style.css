@@ -102,7 +102,48 @@ nav ul li a{
     text-align: start;
   }
 
+.portfolio{
+    font-size: xx-large;
+    height: 250dvh;
+    background-color: rgb(29, 28, 28);
+    text-align: center;
+    color:  hsl(0, 0%, 76%);
+    
+    p {
+        text-align: center;
+        margin: 3rem;
+        margin-top: 1rem;
+        color: hsl(0, 0%, 76%);
+    }
+}
 
+    .gallery{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    .p{
+        text-align: center;
+        
+    }
+    }
 
+    .imgcontainer  {
+        position: relative;
+        display: inline-block;
+        justify-content: center;
+    }
 
+    .gallery img{
+        width: 200px;
+        height: 260px;
+        margin: 10px;
+        border: 5px;
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+        cursor: pointer;
+        z-index: 1;
 
+        .gallery img:hover{
+            transform: scale(1.1);
+            transition: transform 0.3s ease;
+        }
+    }
